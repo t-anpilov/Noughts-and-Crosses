@@ -86,7 +86,3 @@ function chekAll() {
 	}
 	
 };
-
-function winner() {
-	
-};
